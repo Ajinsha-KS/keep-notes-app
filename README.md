@@ -130,4 +130,5 @@ Frontend runs at `http://localhost:3000`
 
 **Ajinsha K S**  
 [GitHub](https://github.com/Ajinsha-KS)
+[LinkedIn](https://www.linkedin.com/in/ajinshaks/)
 
