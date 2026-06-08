@@ -1,0 +1,7 @@
+new/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+notes-frontend/node_modules/
+notes-frontend/build/ 
